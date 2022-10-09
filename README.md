@@ -1,4 +1,4 @@
-7# 👋Olá aki vc vai aprende como pesonaliza o banner do seu termux
+# 👋Olá aki vc vai aprende como pesonaliza o banner do seu termux
 
 </p>
 <p align="center">
