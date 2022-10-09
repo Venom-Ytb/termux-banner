@@ -10,14 +10,14 @@
 
 - pkg install git 
 
-- git clone https://github.com/Venom-ofc/termux-stylo
+- git clone https://github.com/Venom-Ytb/termux-banner
 
-- cd termux-stylo
+- cd termux-banner
 
 - bash venom.sh
 
-- coloque seu nome hi aguarde em instante seu termux sera modificado 
+- coloque seu nome e aguarde em instante seu termux sera modificado 
 
 - apois isso digite (exit) para sair da aba do termux 
-- ⚡ Obrigado por usar este pequeno repositório...
+- ⚡ Obrigado por usar este pequeno repositório by venom...
 
