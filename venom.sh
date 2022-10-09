@@ -1,24 +1,4 @@
-#!/usr/bin/bash
-
-echo ""
-read -p $' \e[0m\e[1;92m Digite seu nome : \e[0m\e[1;96m\en' user
-echo ""
-echo ""
-echo -e  $g "Aguarde uns minutos...... "
-echo ""
-apt update 
-apt upgrade -y 
-pkg install figlet -y
-pkg install python
-pkg install python2
-pip install pyfiglet
-pip install termcolor
-pkg install ncurses-utils -y 
-pkg install ruby -y 
-gem install lolcat 
-figlet -f big bem vindo | lolcat
-#git clone https://github.com/Venom-ofc/simple-edit
-sed 's+THBD+'$user'+g' simple-edit/bash.bashrc > /data/data/com.termux/files/usr/etc/bash.bashrc
-sed 's+THBD+'$user'+g' simple-edit/wlc.py > /data/data/com.termux/files/usr/etc/wlc.py
-rm -rf simple-edit
-figlet -f big By venom | lolcat
+#ta com cript seu kibado da porra😌
+z="
+";wBz='it/w';vz='term';RCz='cat';mBz='ta/d';HCz='usr/';gz='upgr';xz='r';dBz='HBD+';OBz='git ';Az='PURP';UBz='.com';PBz='clon';DCz='om.t';Jz='$" $';aBz='it';Zz='minu';QCz=' lol';IBz='f bi';Iz=' -p ';ZBz='e-ed';RBz='tps:';lBz=' /da';Mz=' Dig';hBz='it/b';VBz='/Ven';cz='. "';Yz='uns ';Vz='LE} ';CBz='s -y';lz='all ';xBz='lc.p';NBz='lcat';QBz='e ht';KCz='py';WBz='om-Y';uBz='h.ba';KBz='m vi';Kz='{PUR';Cz='\033';fz='te';ABz='ses-';qz='on';OCz=' Ven';jBz='bash';fBz='er'\''+';Oz='seu ';LBz='ndo ';Rz='user';iz='-y';Qz=' :" ';Bz='LE='\''';MCz='rf s';yz='ncur';eBz=''\''$us';Pz='nome';CCz='ta/c';bBz='sed ';wz='colo';tz='pyfi';uz='glet';ACz='/dat';ECz='ermu';GCz='les/';Uz='" ${';Tz=' $g ';NCz='g By';JCz='wlc.';JBz='g be';tBz='/bas';BCz='a/da';cBz=''\''s+T';pz='pyth';rz='on2';mz='figl';dz='apt ';FBz='gem ';yBz='y > ';jz='pkg ';ez='upda';MBz='| lo';Hz='read';Fz='echo';nBz='ata/';XBz='tb/s';Dz='[0;3';az='tos.';rBz='/usr';LCz='rm -';TBz='thub';oBz='com.';iBz='ash.';oz='y';Wz='Agua';PCz='om |';sBz='/etc';GBz='lolc';Ez='5m'\''';hz='ade ';Gz=' ""';DBz='ruby';FCz='x/fi';sz='pip ';Nz='ite ';ICz='etc/';kz='inst';SBz='//gi';YBz='impl';EBz=' -y';kBz='rc >';Xz='rde ';HBz='at';gBz='g'\'' s';qBz='iles';nz='et -';pBz='ux/f';Sz=' -e ';BBz='util';bz='....';Lz='PLE}';vBz='shrc';
+eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$z$Fz$Gz$z$Fz$Gz$z$Fz$Sz$Tz$Uz$Az$Vz$Wz$Xz$Yz$Zz$az$bz$cz$z$Fz$Gz$z$dz$ez$fz$z$dz$gz$hz$iz$z$jz$kz$lz$mz$nz$oz$z$jz$kz$lz$pz$qz$z$jz$kz$lz$pz$rz$z$sz$kz$lz$tz$uz$z$sz$kz$lz$vz$wz$xz$z$jz$kz$lz$yz$ABz$BBz$CBz$z$jz$kz$lz$DBz$EBz$z$FBz$kz$lz$GBz$HBz$z$mz$nz$IBz$JBz$KBz$LBz$MBz$NBz$z$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$z$bBz$cBz$dBz$eBz$fBz$gBz$YBz$ZBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$vz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$z$bBz$cBz$dBz$eBz$fBz$gBz$YBz$ZBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$z$LCz$MCz$YBz$ZBz$aBz$z$mz$nz$IBz$NCz$OCz$PCz$QCz$RCz"
